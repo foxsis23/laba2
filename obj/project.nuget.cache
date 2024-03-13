@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CiLxLFlLzVC1DtNwZSEzzg4/O8cIunSbqogfubETenw63k19J7du1WqKXXEarYExAfP5U/Ao9SCSkCr4uJrY2g==",
+  "success": true,
+  "projectFilePath": "/Users/ilyafoxsis/Programming/proga/laba2/laba2.csproj",
+  "expectedPackageFiles": [
+    "/Users/ilyafoxsis/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
